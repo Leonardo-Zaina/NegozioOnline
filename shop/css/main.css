@@ -1,0 +1,38 @@
+h1.title{
+    text-align: center;
+    background-color: aqua;
+    
+}
+/* MENU */
+
+ul#menu{
+    background-color: blue;
+}
+
+ul#menu li{
+
+    float: left;
+    display: block;
+    
+    margin:5px;
+    text-align: center;
+    
+}
+
+ul#menu li a:link{
+    text-decoration: none;
+    color: black;
+}
+
+
+ul#menu .search{
+
+    width: 20px;
+    height: 17px;
+    background-color: rgb(214, 160, 23);
+    border: 3px solid;
+    border-color: rgb(8, 1, 38);
+    margin-left: 10px;
+    position: absolute;
+
+}
