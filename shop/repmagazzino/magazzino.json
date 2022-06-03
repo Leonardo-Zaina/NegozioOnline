@@ -240,11 +240,11 @@
     }
 ,
     {
-        "nome": "Apriscatole",
-        "marca": "INOW",
-        "modello": "PRE-2",
-        "numero_seriale": "454398",
-        "quantità": 1
+        "nome": "Cacciavite con inserto modificabile",
+        "marca": "Bosch",
+        "modello": "P34",
+        "numero_seriale": "670902",
+        "quantità": 3
     }
 ,
     {
@@ -264,7 +264,7 @@
     }
 ,
     {
-        "nome": "malta",
+        "nome": "Malta",
         "marca": "Ikoflex",
         "modello": "Sm321",
         "numero_seriale": "109-23",
