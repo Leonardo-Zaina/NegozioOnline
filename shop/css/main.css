@@ -1,22 +1,17 @@
 h1.title{
-    text-align: center;
-    background-color: aqua;
-    
+    text-align: center;    
 }
-/* MENU */
 
-ul#menu{
-    background-color: blue;
+html{
+    background-color:#fafafa;
 }
 
 ul#menu li{
 
     float: left;
-    display: block;
-    
+    display: block;  
     margin:5px;
     text-align: center;
-    
 }
 
 ul#menu li a:link{
@@ -24,12 +19,20 @@ ul#menu li a:link{
     color: black;
 }
 
+ul#menu li a:hover{
+    text-decoration: none;
+
+}
+
+.sottotitolo{
+    text-align: center;
+}
+
 
 ul#menu .search{
 
     width: 20px;
     height: 17px;
-    background-color: rgb(214, 160, 23);
     border: 3px solid;
     border-color: rgb(8, 1, 38);
     margin-left: 10px;
