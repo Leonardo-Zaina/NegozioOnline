@@ -3,7 +3,7 @@ h1.title{
 }
 
 html{
-    background-color:#fafafa;
+    background-color:#e3fffa;
 }
 
 ul#menu li{
@@ -38,4 +38,12 @@ ul#menu .search{
     margin-left: 10px;
     position: absolute;
 
+}
+
+.button{
+    border: solid 1px black;
+    margin-left: 5px;
+    width: 18px;
+    height: 18px;
+    position: absolute;
 }
