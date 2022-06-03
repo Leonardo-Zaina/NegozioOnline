@@ -5,7 +5,6 @@ ul#menu{
 ul#menu li{
     float:left;
     display: block;
-    border:1px solid aliceblue;
     margin:5px;
 }
 
@@ -23,5 +22,14 @@ ul#menu .search{
     margin-left: 10px;
     position: absolute;
 
+}
+
+html{
+    background-color:#fffbf6;
+}
+
+ul#menu li a:link{
+    text-decoration: none;
+    color: black;
 }
 
